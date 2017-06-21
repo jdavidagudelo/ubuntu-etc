@@ -1,0 +1,23 @@
+[connection]
+id=Auto Juan Valdez
+uuid=4e7d41fc-0a8b-4167-9c99-d44a64562d2a
+type=wifi
+permissions=
+secondaries=
+
+[wifi]
+mac-address=E4:02:9B:2D:45:0B
+mac-address-blacklist=
+mac-address-randomization=0
+mode=infrastructure
+seen-bssids=
+ssid=Juan Valdez
+
+[ipv4]
+dns-search=
+method=auto
+
+[ipv6]
+addr-gen-mode=stable-privacy
+dns-search=
+method=auto

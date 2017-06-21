@@ -1,0 +1,23 @@
+[connection]
+id=Auto PLAZOLETA_SFP
+uuid=40ac8de8-60fe-4bc0-8e00-ce98ee6ff221
+type=wifi
+permissions=
+secondaries=
+
+[wifi]
+mac-address=E4:02:9B:2D:45:0B
+mac-address-blacklist=
+mac-address-randomization=0
+mode=infrastructure
+seen-bssids=
+ssid=PLAZOLETA_SFP
+
+[ipv4]
+dns-search=
+method=auto
+
+[ipv6]
+addr-gen-mode=stable-privacy
+dns-search=
+method=auto

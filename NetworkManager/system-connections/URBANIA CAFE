@@ -1,0 +1,31 @@
+[connection]
+id=URBANIA CAFE
+uuid=2a1dd905-575f-46c7-95b1-521e33e5e9a1
+type=wifi
+permissions=
+secondaries=
+
+[wifi]
+mac-address=E4:02:9B:2D:45:0B
+mac-address-blacklist=
+mac-address-randomization=0
+mode=infrastructure
+seen-bssids=
+ssid=URBANIA CAFE
+
+[wifi-security]
+group=
+key-mgmt=wpa-psk
+pairwise=
+proto=
+psk=urbaniacafe
+
+[ipv4]
+dns-search=
+method=auto
+
+[ipv6]
+addr-gen-mode=stable-privacy
+dns-search=
+ip6-privacy=0
+method=auto
