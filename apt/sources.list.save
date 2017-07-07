@@ -51,3 +51,4 @@ deb http://security.ubuntu.com/ubuntu xenial-security multiverse
 # deb-src http://security.ubuntu.com/ubuntu xenial-security multiverse
 deb https://cli-assets.heroku.com/branches/stable/apt ./
 # deb-src https://cli-assets.heroku.com/branches/stable/apt ./
+deb http://download.virtualbox.org/virtualbox/debian xenial contrib
