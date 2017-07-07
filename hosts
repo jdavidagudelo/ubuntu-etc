@@ -10,4 +10,4 @@ ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 127.0.0.1 things.ubidots.com
 127.0.0.1 th100.ubidots.vac.io
-127.0.0.1 thg1.ubidots.vac.io app.ubidots.com
+127.0.0.1 thg1.ubidots.vac.io
