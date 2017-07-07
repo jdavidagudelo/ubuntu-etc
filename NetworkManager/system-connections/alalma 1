@@ -1,0 +1,23 @@
+[connection]
+id=alalma 1
+uuid=17e17f09-38dc-4b5e-817f-8b26c8da20b7
+type=wifi
+permissions=
+secondaries=
+
+[wifi]
+hidden=true
+mac-address=E4:02:9B:2D:45:0B
+mac-address-blacklist=
+mac-address-randomization=0
+seen-bssids=
+ssid=alalma
+
+[ipv4]
+dns-search=
+method=auto
+
+[ipv6]
+addr-gen-mode=stable-privacy
+dns-search=
+method=auto
