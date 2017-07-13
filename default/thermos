@@ -21,3 +21,4 @@ MESOS_ROOT=/var/lib/mesos
 EXTRA_THERMOS_OBSERVER_ARGS=""
 MESOS_ROOT=/tmp/mesos
 MESOS_ROOT=/tmp/mesos
+MESOS_ROOT=/tmp/mesos
