@@ -653,7 +653,7 @@
 *OpenUI *ColorModel/Color Model: PickOne
 *OPOptionHints ColorModel: "radiobuttons"
 *OrderDependency: 2 AnySetup *ColorModel
-*DefaultColorModel: RGB
+*DefaultColorModel: KCMY
 *StpDefaultColorModel: RGB
 *ColorModel Gray/Grayscale:	"<</cupsColorSpace 0/cupsColorOrder 0>>setpagedevice"
 *ColorModel Black/Inverted Grayscale:	"<</cupsColorSpace 3/cupsColorOrder 0>>setpagedevice"
@@ -762,7 +762,7 @@
 *OrderDependency: 10 AnySetup *StpCDInnerRadius
 *OPOptionHints StpCDInnerRadius: "radiobuttons"
 *StpStpCDInnerRadius: 0 1 0 0 255 0.000 0.000 0.000
-*DefaultStpCDInnerRadius: None
+*DefaultStpCDInnerRadius: Small
 *StpDefaultStpCDInnerRadius: None
 *StpCDInnerRadius None/Normal: ""
 *StpCDInnerRadius Small/Print To Hub: ""

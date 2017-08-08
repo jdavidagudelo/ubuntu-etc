@@ -19,6 +19,7 @@ group=
 key-mgmt=wpa-psk
 pairwise=
 proto=
+psk=clave123456789ubi
 
 [ipv4]
 dns-search=

@@ -7,10 +7,11 @@ AuthInfoRequired none
 Info Canon E480 series
 MakeModel Canon E480 series - CUPS+Gutenprint v5.2.11
 DeviceURI dnssd://Canon%20E480%20series._ipp._tcp.local/?uuid=00000000-0000-1000-8000-60128B41418F
-State Idle
-StateTime 1500031167
+State Stopped
+StateMessage Rendering completed
+StateTime 1500659115
 ConfigTime 1492867651
-Reason marker-supply-low-warning
+Reason paused
 Type 36876
 Accepting Yes
 Shared Yes
@@ -21,12 +22,12 @@ KLimit 0
 OpPolicy default
 ErrorPolicy retry-job
 Attribute marker-colors \#39D2E7#D945DD#DFD31D,#101010
-Attribute marker-levels 0,0
+Attribute marker-levels -2,-2
 Attribute marker-low-levels 15,15
 Attribute marker-high-levels 100,100
 Attribute marker-names Color,Black
 Attribute marker-types inkCartridge,inkCartridge
-Attribute marker-change-time 1500031172
+Attribute marker-change-time 1500659111
 </Printer>
 <DefaultPrinter E480LAN-1>
 UUID urn:uuid:bf25c227-81b8-3265-6c9c-0911069cc845
@@ -34,7 +35,7 @@ Info E480LAN-1
 MakeModel Canon E480 series Ver.5.10
 DeviceURI cnijbe2://Canon/?port=net&serial=60-12-8B-41-41-8F
 State Idle
-StateTime 1492868660
+StateTime 1500658965
 ConfigTime 1492868660
 Type 8392716
 Accepting Yes
