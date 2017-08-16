@@ -10,7 +10,7 @@ DeviceURI dnssd://Canon%20E480%20series._ipp._tcp.local/?uuid=00000000-0000-1000
 State Stopped
 StateMessage Rendering completed
 StateTime 1500659115
-ConfigTime 1492867651
+ConfigTime 1500659834
 Reason paused
 Type 36876
 Accepting Yes
@@ -47,3 +47,22 @@ KLimit 0
 OpPolicy default
 ErrorPolicy retry-job
 </DefaultPrinter>
+<Printer HP_LaserJet_Professional_P_1102w>
+UUID urn:uuid:e713b435-ccc1-3e0d-6516-ae9333178bae
+Info HP LaserJet Professional P 1102w @ MacBook Air de Sunklar
+Location MacBook-Air-de-Sunklar.local
+DeviceURI ipps://MacBook-Air-de-Sunklar.local:631/printers/HP_LaserJet_Professional_P_1102w
+State Idle
+StateTime 1502377276
+ConfigTime 1502377276
+Type 6
+Accepting Yes
+Shared No
+JobSheets none none
+QuotaPeriod 0
+PageLimit 0
+KLimit 0
+OpPolicy default
+ErrorPolicy retry-job
+Option cups-browsed true
+</Printer>
