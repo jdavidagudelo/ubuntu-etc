@@ -48,13 +48,13 @@ OpPolicy default
 ErrorPolicy retry-job
 </DefaultPrinter>
 <Printer HP_LaserJet_Professional_P_1102w>
-UUID urn:uuid:e713b435-ccc1-3e0d-6516-ae9333178bae
+UUID urn:uuid:58c8160d-2fe2-38e5-411d-4724aa4197de
 Info HP LaserJet Professional P 1102w @ MacBook Air de Sunklar
 Location MacBook-Air-de-Sunklar.local
 DeviceURI ipps://MacBook-Air-de-Sunklar.local:631/printers/HP_LaserJet_Professional_P_1102w
 State Idle
-StateTime 1502377276
-ConfigTime 1502377276
+StateTime 1503419075
+ConfigTime 1503419075
 Type 6
 Accepting Yes
 Shared No
