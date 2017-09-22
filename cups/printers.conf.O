@@ -29,6 +29,25 @@ Attribute marker-names Color,Black
 Attribute marker-types inkCartridge,inkCartridge
 Attribute marker-change-time 1500659111
 </Printer>
+<Printer Canon_MG3500_series>
+UUID urn:uuid:b45658cf-8dfd-3745-714b-c9bcc2e9dc45
+Info Canon MG3500 series @ Johannesburg
+Location Johannesburg.local
+DeviceURI ipps://Johannesburg.local:631/printers/Canon_MG3500_series
+State Idle
+StateTime 1505765959
+ConfigTime 1505765959
+Type 6
+Accepting Yes
+Shared No
+JobSheets none none
+QuotaPeriod 0
+PageLimit 0
+KLimit 0
+OpPolicy default
+ErrorPolicy retry-job
+Option cups-browsed true
+</Printer>
 <DefaultPrinter E480LAN-1>
 UUID urn:uuid:bf25c227-81b8-3265-6c9c-0911069cc845
 Info E480LAN-1
@@ -47,14 +66,33 @@ KLimit 0
 OpPolicy default
 ErrorPolicy retry-job
 </DefaultPrinter>
-<Printer HP_LaserJet_Professional_P_1102w>
-UUID urn:uuid:58c8160d-2fe2-38e5-411d-4724aa4197de
-Info HP LaserJet Professional P 1102w @ MacBook Air de Sunklar
-Location MacBook-Air-de-Sunklar.local
-DeviceURI ipps://MacBook-Air-de-Sunklar.local:631/printers/HP_LaserJet_Professional_P_1102w
+<Printer HP_Deskjet_2050_J510_series>
+UUID urn:uuid:83d1a900-2921-31ed-5ed4-2c6b2d4676e3
+Info HP Deskjet 2050 J510 series @ Johannesburg
+Location Johannesburg.local
+DeviceURI ipps://Johannesburg.local:631/printers/HP_Deskjet_2050_J510_series
 State Idle
-StateTime 1503419075
-ConfigTime 1503419075
+StateTime 1505765955
+ConfigTime 1505765955
+Type 6
+Accepting Yes
+Shared No
+JobSheets none none
+QuotaPeriod 0
+PageLimit 0
+KLimit 0
+OpPolicy default
+ErrorPolicy retry-job
+Option cups-browsed true
+</Printer>
+<Printer Samsung_ML_1640_Series>
+UUID urn:uuid:c53dd245-4965-361c-60ef-fa8840714a63
+Info Samsung ML-1640 Series @ Johannesburg
+Location Johannesburg.local
+DeviceURI ipps://Johannesburg.local:631/printers/Samsung_ML_1640_Series
+State Idle
+StateTime 1505765965
+ConfigTime 1505765965
 Type 6
 Accepting Yes
 Shared No
