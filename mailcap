@@ -863,6 +863,10 @@ x-scheme-handler/icy; totem --fullscreen %s; test=test -n "$DISPLAY"
 x-scheme-handler/icyx; totem --fullscreen %s; test=test -n "$DISPLAY"
 inode/directory; pcmanfm %s; test=test -n "$DISPLAY"
 text/plain; pluma %s; test=test -n "$DISPLAY"
+model/x-egg; pview %s; needsterminal
+model/x-compressed-egg; pview %s; needsterminal
+model/x-bam; pview %s; needsterminal
+model/x-compressed-bam; pview %s; needsterminal
 x-scheme-handler/spice; remote-viewer %s; test=test -n "$DISPLAY"
 application/x-virt-viewer; remote-viewer %s; test=test -n "$DISPLAY"
 x-content/audio-player; rhythmbox-client --select-source %s; test=test -n "$DISPLAY"

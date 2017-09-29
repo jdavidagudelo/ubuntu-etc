@@ -12,4 +12,4 @@ ff02::2 ip6-allrouters
 127.0.0.1 thg1.ubidots.vac.io
 151.101.56.204 industrial.iot.ubidots.com
 151.101.56.204 cdn.ubidots.com
-127.0.0.1 cdn.ubistatic.com
+172.17.0.3  cdn.ubistatic.com
