@@ -962,6 +962,9 @@ text/x-tex; vim %s; needsterminal
 application/x-shellscript; vim %s; needsterminal
 text/x-c; vim %s; needsterminal
 text/x-c++; vim %s; needsterminal
+application/x-vnc; vinagre -F %s; test=test -n "$DISPLAY"
+application/x-remote-connection; vinagre %s; test=test -n "$DISPLAY"
+x-scheme-handler/vnc; vinagre %s; test=test -n "$DISPLAY"
 application/x-virtualbox-vbox; VirtualBox %s; test=test -n "$DISPLAY"
 application/x-virtualbox-vbox-extpack; VirtualBox %s; test=test -n "$DISPLAY"
 application/x-virtualbox-ovf; VirtualBox %s; test=test -n "$DISPLAY"
